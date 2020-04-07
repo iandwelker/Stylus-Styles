@@ -1,6 +1,6 @@
 [
 	{
-		"enabled": true,
+		"enabled": false,
 		"updateUrl": null,
 		"md5Url": null,
 		"url": null,
@@ -17,7 +17,7 @@
 		],
 		"updateDate": 1586132410798,
 		"_id": "c16cf1d8-d518-43bd-acc3-f036296a9583",
-		"_rev": 1586132410798,
-		"id": 3
+		"_rev": 1586247587704,
+		"id": 10
 	}
 ]
